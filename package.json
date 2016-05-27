@@ -1,8 +1,8 @@
 {
   "name": "exciting-segmented",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ios&android segmented",
-  "main": "./dist/exciting-segmented.js",
+  "main": "exciting-segmented.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/WittBulter/exciting-segmented/issues"
   },
-  "homepage": "https://github.com/WittBulter/exciting-segmented#readme"
+  "homepage": "https://github.com/WittBulter/exciting-segmented#readme",
 }
