@@ -21,7 +21,7 @@ ios&amp;android segmented
 ##USE
 
 * step1: `npm i --save exciting-segmented`
-* step2: `import Segmented from './exciting-segmented'`
+* step2: `import Segmented from 'exciting-segmented'`
 * step3: `<Segmented dataSource={['text']}/>`
 
 
