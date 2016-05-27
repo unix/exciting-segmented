@@ -2,8 +2,7 @@
  * Created by WittBulter on 16/5/26.
  */
 import React, {Component} from 'react'
-import {View, Image, Text, TouchableOpacity, ListView, StyleSheet, TextInput, Animated} from 'react-native'
-import Dimensions from 'Dimensions'
+import {View, Image, Text, TouchableOpacity, ListView, StyleSheet, TextInput, Animated, Dimensions} from 'react-native'
 const {width} = Dimensions.get('window')
 
 export default class segmented extends Component {
