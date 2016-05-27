@@ -1,0 +1,22 @@
+{
+  "name": "exciting-segmented",
+  "version": "0.1.1",
+  "description": "ios&android segmented",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://WittBulter@github.com/WittBulter/exciting-segmented.git"
+  },
+  "keywords": [
+    "segmented"
+  ],
+  "author": "WittBulter (nanazuimeng123@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WittBulter/exciting-segmented/issues"
+  },
+  "homepage": "https://github.com/WittBulter/exciting-segmented#readme"
+}
